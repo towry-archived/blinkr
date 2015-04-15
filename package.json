@@ -1,13 +1,12 @@
 {
   "name": "blinkr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Blink the window caption and taskbar button to notice that something happend",
   "main": "lib/index.js",
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "node-gyp": "~1.0.3"
   },
